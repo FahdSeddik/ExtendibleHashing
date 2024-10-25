@@ -1,4 +1,5 @@
 # Extendible Hashing
+This was created to be used as a student practice lab by removing TODOs added in the files.  
 
 ## Requirements
 - `g++` (GNU Compiler) or Visual Studio (MSVC)
